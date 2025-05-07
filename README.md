@@ -106,9 +106,9 @@ Me chamo Guilherme Gonzaga Coelho Krohling, tenho 22 anos e sou natural do Rio d
 
 <!-- <img src="https://raw.githubusercontent.com/Guilherme-krohling/gitrepo/output/snake.svg" alt="Snake animation" /> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-krohling/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-krohling/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherme-krohling/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-krohling/Guilherme-krohling/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-krohling/Guilherme-krohling/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherme-krohling/Guilherme-krohling/output/github-contribution-grid-snake.svg">
 </picture>
 
 </p>
