@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Guilherme Gonzaga
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Guilherme Gonzaga Coelho Krohling, tenho 22 anos e sou natural do Rio de Janeiro, atualmente moro em Santos-SP. Já sou formado em técnico em informática pelo SENAC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC.
 
